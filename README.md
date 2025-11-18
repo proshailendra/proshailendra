@@ -1,67 +1,115 @@
-## 👋 Hi, I'm **Shailendra Chauhan**
-### **Microsoft MVP (10X)** | Founder & CEO, **ScholarHat**
-### Architecting solutions in **.NET • Azure • Azure AI • Gen AI • Agentic AI • DevOps • Microservices**
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm <strong>Shailendra Chauhan</strong></h1>
+<h3 align="center"><strong>10X Microsoft MVP | Founder & CEO – ScholarHat</strong></h3>
+<h4 align="center">Architecting solutions in .NET • Azure • Azure AI • Gen AI • Agentic AI • DevOps • Microservices</h4>
+
+---
+
+## 🚀 About Me
 
 I am **Shailendra Chauhan**, a **10-time Microsoft MVP (since 2016)** and the **Founder & CEO of ScholarHat**.  
-I specialize in modern engineering stacks including **.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, DevOps, Microservices, Angular, and React**.
+I specialize in **.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, DevOps, Microservices, Angular, and React**.
 
-My mission is simple:  
-**To empower developers and working professionals with hands-on, industry-grade learning that builds real-world expertise.**
+My purpose is simple:  
+💡 **Empower developers and professionals with hands-on, industry-grade learning to build real-world applications confidently.**
 
-Over the years, I have:
+### 📌 Highlights
+- 🎓 Trained **100,000+ professionals worldwide**
+- 📚 Written **45+ eBooks** on modern technologies
+- ✍️ Published **1000+ technical articles** on **https://www.scholarhat.com**
+- 🚀 Helped thousands crack technical interviews through practical learning
 
-- 🎓 Trained **100,000+ working professionals worldwide**
-- 📚 Authored **45+ eBooks** on cutting-edge technologies
-- ✍️ Published **1000+ technical articles** at **https://www.scholarhat.com**
-- 🚀 Helped thousands crack technical interviews through practical, project-driven learning
+---
+
+## 🛠️ Tech Expertise
+
+### **Cloud & AI**
+<div>
+  <img src="https://skillicons.dev/icons?i=azure" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+</div>
+
+### **Backend**
+<div>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+</div>
+
+### **Frontend**
+<div>
+  <img src="https://skillicons.dev/icons?i=angular" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="45"/>
+</div>
+
+### **DevOps & Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
+</div>
 
 ---
 
 ## 🌟 What I Offer
 
-### ✅ **Masterclasses**
-High-impact, deep-dive sessions on:
+### 🎯 **Masterclasses**
 - Azure & Azure AI/ML  
-- Generative AI & Agentic AI  
-- Microservices & System Design  
-- Full-Stack .NET  
-- DevOps & GitHub Actions  
-
-### ✅ **Free Courses**
-Hands-on practice in:
-- Azure • .NET Core • DSA  
-- Python • AI • Gen AI • Agentic AI  
-- SQL • Web Development  
-
-### ✅ **Job-Oriented Certifications**
-Career-ready programs designed to help you become a certified professional in:
-- Azure  
-- AI / Gen AI  
-- Agentic AI  
-- .NET  
-- DevOps  
+- Gen AI & Agentic AI  
 - Microservices  
+- Full-Stack .NET  
+- DevOps with GitHub Actions  
+
+### 🎓 **Job-Oriented Certifications**
+Become industry-ready in:
+- Azure | AI/Gen AI | Agentic AI  
+- .NET  
+- Microservices  
+- DevOps  
 - Software Architecture  
 - System Design  
 
----
-
-## 🚀 Let’s Connect If You’re Passionate About
-
-- Azure AI/ML, Gen AI & Agentic AI  
-- Software Architecture & High-Level System Design  
-- ASP.NET Core & Microservices  
-- DevOps, CI/CD & GitHub Actions  
-- Cloud-native & scalable solutions  
+### 🆓 **Free Courses**
+- Azure | .NET Core | DSA  
+- Python | AI | Gen AI  
+- SQL | Web Development  
 
 ---
 
-## 📬 Stay Connected
+## 📈 GitHub Stats
 
-- 🌐 **Website:** https://www.scholarhat.com  
-- 💡 Follow for daily insights on **Azure AI**, **Gen AI**, **Architecture**, **Full-Stack Development**, and **Microservices**  
-- 📩 **DM me** to explore live training, certifications, and masterclasses  
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=proshailendra&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proshailendra&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-💡 **Let’s build the future of tech together!**
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-MVP-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/.NET%20Expert-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Engineer-blue?style=for-the-badge&logo=azuredevops" />
+  <img src="https://img.shields.io/badge/Architect-Solution%20Design-green?style=for-the-badge" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 🌐 Website: **https://www.scholarhat.com**  
+- 📩 DM me for **live training**, **certifications**, and **masterclasses**  
+- 💡 Follow for daily insights on **Azure AI**, **Gen AI**, **Architecture**, **Full-Stack**, and **Microservices**  
+
+---
+
+## ✨ Final Note
+
+<p align="center">
+  💡 <strong>Let’s build the future of tech together!</strong>  
+</p>
