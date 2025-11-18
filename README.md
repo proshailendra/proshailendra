@@ -44,11 +44,18 @@ My purpose is simple:
   <img src="https://skillicons.dev/icons?i=react" height="45"/>
 </div>
 
+### **Database**
+<div>
+ <img src="https://www.scholarhat.com/images/technologies/sqlserver.png" height="45"/>
+ <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+</div>
+
 ### **DevOps & Tools**
 <div>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="45"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="jenkins"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions"/>
 </div>
 
 ---
