@@ -1,67 +1,67 @@
 ## 👋 Hi, I'm **Shailendra Chauhan**
-### Microsoft MVP | Founder & CEO at ScholarHat  
+### **Microsoft MVP (10X)** | Founder & CEO, **ScholarHat**
 ### Architecting solutions in **.NET • Azure • Azure AI • Gen AI • Agentic AI • DevOps • Microservices**
 
+I am **Shailendra Chauhan**, a **10-time Microsoft MVP (since 2016)** and the **Founder & CEO of ScholarHat**.  
+I specialize in modern engineering stacks including **.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, DevOps, Microservices, Angular, and React**.
+
+My mission is simple:  
+**To empower developers and working professionals with hands-on, industry-grade learning that builds real-world expertise.**
+
+Over the years, I have:
+
+- 🎓 Trained **100,000+ working professionals worldwide**
+- 📚 Authored **45+ eBooks** on cutting-edge technologies
+- ✍️ Published **1000+ technical articles** at **https://www.scholarhat.com**
+- 🚀 Helped thousands crack technical interviews through practical, project-driven learning
+
 ---
 
-I am **Shailendra Chauhan**, a **10X Microsoft MVP since 2016**, and the **Founder & CEO of ScholarHat**.  
-I specialize in **.NET Stack, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, Azure DevOps, Angular, React, and Microservices**.
-
-With a mission to empower professionals with hands-on, industry-grade learning, I have:
-
-- 🎓 Trained **1,00,000+ professionals** globally  
-- 📚 Authored **45+ eBooks** on cutting-edge technologies  
-- ✍️ Published **1000+ technical articles** on **https://www.scholarhat.com**  
-- 🚀 Helped thousands crack technical interviews through practical, real-world learning
-
----
-
-## 🌟 **What I Offer**
+## 🌟 What I Offer
 
 ### ✅ **Masterclasses**
-Deep-dive sessions on:
+High-impact, deep-dive sessions on:
 - Azure & Azure AI/ML  
-- Generative AI
-- Agentic AI 
+- Generative AI & Agentic AI  
 - Microservices & System Design  
 - Full-Stack .NET  
-- DevOps with GitHub Actions  
+- DevOps & GitHub Actions  
 
 ### ✅ **Free Courses**
-Practice and upskill with hands-on learning in:
+Hands-on practice in:
 - Azure • .NET Core • DSA  
-- Python • AI  • Gen AI • Agentic AI
+- Python • AI • Gen AI • Agentic AI  
 - SQL • Web Development  
 
 ### ✅ **Job-Oriented Certifications**
-Industry-focused paths designed to help you become a certified professional in:
+Career-ready programs designed to help you become a certified professional in:
 - Azure  
-- AI/Gen AI
-- Agentic AI
+- AI / Gen AI  
+- Agentic AI  
 - .NET  
 - DevOps  
-- Microservices
-- Software Architect
-- System Design
+- Microservices  
+- Software Architecture  
+- System Design  
 
 ---
 
-## 🚀 **Let’s Connect If You Are Passionate About**
+## 🚀 Let’s Connect If You’re Passionate About
 
-- Azure AI/ML & Gen AI  
-- Software Architecture & System Design  
-- ASP.NET Core, Microservices  
-- DevOps, CI/CD Pipelines (GitHub Actions)  
-- Cloud-native, scalable solutions  
-
----
-
-## 📬 **Stay Connected**
-
-🌐 **Website:** https://www.scholarhat.com  
-💡 Follow for daily tips, tutorials & insights on **Azure AI**, **Azure Gen AI**, **Software Architecture**, **Full-Stack** and **Microservices**
-📩 **DM me** to explore my courses, certifications, and masterclasses  
+- Azure AI/ML, Gen AI & Agentic AI  
+- Software Architecture & High-Level System Design  
+- ASP.NET Core & Microservices  
+- DevOps, CI/CD & GitHub Actions  
+- Cloud-native & scalable solutions  
 
 ---
 
-## 💡 *Let’s build the future of tech together!*  
+## 📬 Stay Connected
+
+- 🌐 **Website:** https://www.scholarhat.com  
+- 💡 Follow for daily insights on **Azure AI**, **Gen AI**, **Architecture**, **Full-Stack Development**, and **Microservices**  
+- 📩 **DM me** to explore live training, certifications, and masterclasses  
+
+---
+
+💡 **Let’s build the future of tech together!**
