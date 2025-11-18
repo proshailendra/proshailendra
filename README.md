@@ -1,19 +1,22 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <strong>Shailendra Chauhan</strong></h1>
-<h3 align="center"><strong>10X Microsoft MVP | Founder & CEO – ScholarHat</strong></h3>
+<h3 align="center">👨‍💻 <strong>10X Microsoft MVP | Founder & CEO – ScholarHat</strong></h3>
 <h4 align="center">.NET • Azure • AI • Gen AI • Agentic AI • Software Architecture • Microservices • DevOps</h4>
 
 ---
 
 ## 🚀 About Me
 
-I am **Shailendra Chauhan**, a **10-time Microsoft MVP (since 2016)** and the **Founder & CEO of ScholarHat**.  
-I specialize in **.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, DevOps, Microservices, Angular, React and Mobile Apps**.
+I am **Shailendra Chauhan**, a **10-time Microsoft MVP (since 2016)** and the **Founder & CEO of ScholarHat**. I specialize in **.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, DevOps, Microservices, Angular, React and Mobile Apps**.
 
-My purpose is simple:  
-💡 **Empower developers and professionals with hands-on, industry-grade learning to build real-world applications confidently.**
+At ScholarHat, my mission is bigger than teaching—
+
+**💡 I aim to create world-class engineers who can build, innovate, and solve real industry problems with confidence.**
+
+I believe that knowledge means nothing without hands-on experience, and every developer deserves access to practical, industry-grade learning that accelerates their career.
 
 ### 📌 Highlights
+With a passion for transforming how technology is learned and applied, I have:
 - 🎓 Trained **100,000+ working professionals worldwide**
 - 📚 Written <a href="https://www.scholarhat.com/books">**45+ Free eBooks**</a> on modern technologies
 - 📘 Curated <a href="https://www.scholarhat.com/free-course">**25+ Free Courses**</a> on modern technologies
