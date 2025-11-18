@@ -25,9 +25,9 @@ My purpose is simple:
 
 ### **Cloud & AI**
 <div>
-  <img src="https://skillicons.dev/icons?i=azure" height="45"/>
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
 </div>
 
 ### **Backend**
@@ -39,9 +39,9 @@ My purpose is simple:
 
 ### **Frontend**
 <div>
+  <img src="https://skillicons.dev/icons?i=typescript" height="45"/>
   <img src="https://skillicons.dev/icons?i=angular" height="45"/>
   <img src="https://skillicons.dev/icons?i=react" height="45"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="45"/>
 </div>
 
 ### **DevOps & Tools**
@@ -75,19 +75,6 @@ Become industry-ready in:
 - Azure | .NET Core | DSA  
 - Python | AI | Gen AI  
 - SQL | Web Development  
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=proshailendra&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proshailendra&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🏆 Achievements & Badges
 
