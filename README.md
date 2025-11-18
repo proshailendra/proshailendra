@@ -14,10 +14,11 @@ My purpose is simple:
 💡 **Empower developers and professionals with hands-on, industry-grade learning to build real-world applications confidently.**
 
 ### 📌 Highlights
-- 🎓 Trained **100,000+ professionals worldwide**
-- 📚 Written **45+ eBooks** on modern technologies
-- ✍️ Published **1000+ technical articles** on **https://www.scholarhat.com**
-- 🚀 Helped thousands crack technical interviews through practical learning
+- 🎓 Trained **100,000+ working professionals worldwide**
+- 📚 Written <a href="https://www.scholarhat.com/books">**45+ Free eBooks**</a> on modern technologies
+- 📘 Curated <a href="https://www.scholarhat.com/free-course">**25+ Free Courses**</a> on modern technologies
+- ✍️ Published <a href="https://www.scholarhat.com/tutorial">**1000+ technical articles**</a> on ScholarHat
+- 🚀 Helped thousands of developers to crack technical interviews through practical learning
 
 ---
 
