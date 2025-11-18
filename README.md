@@ -25,37 +25,40 @@ My purpose is simple:
 
 ### **Cloud & AI**
 <div>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="45"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="45" title="Azure"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="45" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45" title="Python"/>
+  <img src="https://www.scholarhat.com/images/technologies/ai-studio.png" height="45" title="Azure AI Foundry"/>
+  <img src="https://www.scholarhat.com/images/technologies/aws-bedrock.png" height="45" title="AWS Bedrock"/>
+  <img src="https://www.scholarhat.com/images/technologies/lllm.png" height="45" title="LLMs"/>
+  <img src="https://www.scholarhat.com/images/technologies/ai-agent.png" height="45" title="Agentic AI"/>
 </div>
 
-### **Backend**
+### **Backend & Database**
 <div>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="45"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" title=".NET"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="45" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js"/>
+  <img src="https://www.scholarhat.com/images/technologies/sqlserver.png" height="45" title="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB"/>
 </div>
 
 ### **Frontend**
 <div>
-  <img src="https://skillicons.dev/icons?i=typescript" height="45"/>
-  <img src="https://skillicons.dev/icons?i=angular" height="45"/>
-  <img src="https://skillicons.dev/icons?i=react" height="45"/>
-</div>
-
-### **Database**
-<div>
- <img src="https://www.scholarhat.com/images/technologies/sqlserver.png" height="45"/>
- <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="45" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" title="Javascript"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="45" title="Angular"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45" title="React"/>
 </div>
 
 ### **DevOps & Tools**
 <div>
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="jenkins"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" title="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="45" title="Jenkins"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" title="Github Actions"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="45" title="Terraform"/>
 </div>
 
 ---
