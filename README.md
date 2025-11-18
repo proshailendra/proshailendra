@@ -1,14 +1,14 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <strong>Shailendra Chauhan</strong></h1>
 <h3 align="center"><strong>10X Microsoft MVP | Founder & CEO – ScholarHat</strong></h3>
-<h4 align="center">Architecting solutions in .NET • Azure • Azure AI • Gen AI • Agentic AI • DevOps • Microservices</h4>
+<h4 align="center">.NET • Azure • AI • Gen AI • Agentic AI • Software Architecture • Microservices • DevOps</h4>
 
 ---
 
 ## 🚀 About Me
 
 I am **Shailendra Chauhan**, a **10-time Microsoft MVP (since 2016)** and the **Founder & CEO of ScholarHat**.  
-I specialize in **.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, DevOps, Microservices, Angular, and React**.
+I specialize in **.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, DevOps, Microservices, Angular, React and Mobile Apps**.
 
 My purpose is simple:  
 💡 **Empower developers and professionals with hands-on, industry-grade learning to build real-world applications confidently.**
@@ -72,19 +72,27 @@ My purpose is simple:
 - Full-Stack .NET  
 - DevOps with GitHub Actions  
 
-### 🎓 **Job-Oriented Certifications**
-Become industry-ready in:
-- Azure | AI/Gen AI | Agentic AI  
-- .NET  
-- Microservices  
-- DevOps  
-- Software Architecture  
-- System Design  
+## 💼 Job-Oriented Certification Training (ScholarHat)
+
+Accelerate your career with **hands-on, project-driven, job-oriented training programs** trusted by millions of developers, tech lead and architect:
+
+-  [.NET Solution Architect](https://www.scholarhat.com/job-oriented)
+-  [Full-Stack .NET Developer + GenAI](https://www.scholarhat.com/job-oriented)
+-  [Azure AI & GenAI Engineer](https://www.scholarhat.com/job-oriented)
+-  [Full-Stack Java Developer](https://www.scholarhat.com/job-oriented)
+-  [Java Solution Architect](https://www.scholarhat.com/job-oriented/java-solution-architect-certification-training)
+
+👉 Start learning: https://www.scholarhat.com/job-oriented
 
 ### 🆓 **Free Courses**
-- Azure | .NET Core | DSA  
-- Python | AI | Gen AI  
-- SQL | Web Development  
+- 📘 <a href="https://www.scholarhat.com/free-course/azure-fundamentals-course">Azure Fundamentals</a>  
+- ☁️ <a href="https://www.scholarhat.com/free-course/aws-cloud-practitioner-course">AWS Cloud Practitioner</a>  
+- 🧩 <a href="https://www.scholarhat.com/free-course/asp-net-core-course">ASP.NET Core</a>  
+- 🔢 <a href="https://www.scholarhat.com/free-course/data-structures-algorithms-course">Data Structures & Algorithms (DSA)</a>  
+- 🐍 <a href="https://www.scholarhat.com/free-course/python-course-for-beginners">Python for Beginners</a>  
+- 🤖 <a href="https://www.scholarhat.com/free-course/azure-ai-900-fundamentals-certification-training">Azure AI Fundamentals (AI-900)</a>  
+- 🗄️ <a href="https://www.scholarhat.com/free-course/sql-server-course">SQL Server</a>  
+- 🎓 <a href="https://www.scholarhat.com/free-course"><strong>View All Free Courses</strong></a>
 
 ## 🏆 Achievements & Badges
 
@@ -106,7 +114,4 @@ Become industry-ready in:
 ---
 
 ## ✨ Final Note
-
-<p align="center">
-  💡 <strong>Let’s build the future of tech together!</strong>  
-</p>
+💡 <strong>Let’s build the future of tech together!</strong> 
