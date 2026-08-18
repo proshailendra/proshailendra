@@ -21,7 +21,7 @@ With a passion for transforming how technology is learned and applied, I have:
 - 📚 Written <a href="https://www.scholarhat.com/books">**45+ Free eBooks**</a> on modern technologies
 - 📘 Curated <a href="https://www.scholarhat.com/free-course">**25+ Free Courses**</a> on modern technologies
 - ✍️ Published <a href="https://www.scholarhat.com/tutorial">**1000+ technical articles**</a> on ScholarHat
-- 🚀 Helped thousands of developers to crack technical interviews through practical learning
+- 🚀 Helped millions of developers to crack technical interviews through practical learning
 
 ---
 
