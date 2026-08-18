@@ -1,13 +1,13 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <strong>Shailendra Chauhan</strong></h1>
-<h3 align="center">👨‍💻 <strong>10X Microsoft MVP | Founder & CEO – ScholarHat</strong></h3>
+<h3 align="center">👨‍💻 <strong>11X Microsoft MVP | Founder & CEO – ScholarHat</strong></h3>
 <h4 align="center">.NET • Azure • AI • Gen AI • Agentic AI • Software Architecture • Microservices • DevOps</h4>
 
 ---
 
 ## 🚀 About Me
 
-I am **Shailendra Chauhan**, a **10-time Microsoft MVP (since 2016)** and the **Founder & CEO of ScholarHat**. I specialize in **.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, DevOps, Microservices, Angular, React and Mobile Apps**.
+I am **Shailendra Chauhan**, a **11-time Microsoft MVP (since 2016)** and the **Founder & CEO of ScholarHat**. I specialize in **.NET, ASP.NET Core, Azure, AWS,  AI/ML, Gen AI, Agentic AI, DevOps, Microservices, Angular, React and Mobile Apps**.
 
 At ScholarHat, my mission is bigger than teaching—
 
@@ -70,33 +70,36 @@ With a passion for transforming how technology is learned and applied, I have:
 ## 🌟 What I Offer
 
 ### 🎯 **Masterclasses**
-- Azure & Azure AI/ML  
-- Gen AI & Agentic AI  
-- Microservices  
-- Full-Stack .NET  
-- DevOps with GitHub Actions  
+- AI/ML with Azure/AWS
+- Agentic AI & Agents
+- System Design & Microservices  
+- Full-Stack Development
+- Cloud and DevOps
 
-## 💼 Job-Oriented Certification Training (ScholarHat)
+👉 Join Free Master Classes: https://www.scholarhat.com/master-classes
 
-Accelerate your career with **hands-on, project-driven, job-oriented training programs** trusted by millions of developers, tech lead and architect:
+## 💼 Career Focused Bootcamps (ScholarHat)
 
--  [.NET Solution Architect](https://www.scholarhat.com/job-oriented)
--  [Full-Stack .NET Developer + GenAI](https://www.scholarhat.com/job-oriented)
--  [Azure AI & GenAI Engineer](https://www.scholarhat.com/job-oriented)
--  [Full-Stack Java Developer](https://www.scholarhat.com/job-oriented)
--  [Java Solution Architect](https://www.scholarhat.com/job-oriented/java-solution-architect-certification-training)
+Accelerate your career with **hands-on, project-driven, bootcamp programs** trusted by millions of developers, tech lead and architect:
 
-👉 Start learning: https://www.scholarhat.com/job-oriented
+-  [Full-Stack .NET AI/ML Developer Bootcamp](https://www.scholarhat.com/bootcamp/full-stack-net-ai-ml-developer-bootcamp)
+-  [.NET AI/ML Architect Bootcamp](https://www.scholarhat.com/bootcamp/net-ai-ml-architect-bootcamp)
+-  [Multi-Cloud .NET AI Solution Architect Bootcamp](https://www.scholarhat.com/bootcamp/multi-cloud-net-ai-solution-architect-bootcamp)
+-  [Full-Stack Java AI/ML Developer Bootcamp](https://www.scholarhat.com/bootcamp/full-stack-java-ai-ml-developer-bootcamp)
+-  [Java Solution Architect](https://www.scholarhat.com/bootcamp/full-stack-javascript-ai-ml-developer-bootcamp)
+
+👉 Start building you Career: https://www.scholarhat.com/bootcamp
 
 ### 🆓 **Free Courses**
+- 🤖 <a href="https://www.scholarhat.com/free-course/azure-ai-900-fundamentals-certification-training">Azure AI Fundamentals (AI-900)</a>
 - 📘 <a href="https://www.scholarhat.com/free-course/azure-fundamentals-course">Azure Fundamentals</a>  
 - ☁️ <a href="https://www.scholarhat.com/free-course/aws-cloud-practitioner-course">AWS Cloud Practitioner</a>  
 - 🧩 <a href="https://www.scholarhat.com/free-course/asp-net-core-course">ASP.NET Core</a>  
 - 🔢 <a href="https://www.scholarhat.com/free-course/data-structures-algorithms-course">Data Structures & Algorithms (DSA)</a>  
-- 🐍 <a href="https://www.scholarhat.com/free-course/python-course-for-beginners">Python for Beginners</a>  
-- 🤖 <a href="https://www.scholarhat.com/free-course/azure-ai-900-fundamentals-certification-training">Azure AI Fundamentals (AI-900)</a>  
-- 🗄️ <a href="https://www.scholarhat.com/free-course/sql-server-course">SQL Server</a>  
-- 🎓 <a href="https://www.scholarhat.com/free-course"><strong>View All Free Courses</strong></a>
+- 🐍 <a href="https://www.scholarhat.com/free-course/python-course-for-beginners">Python for Beginners</a>
+- 🌱 <a href="https://www.scholarhat.com/free-course/spring-boot-course-for-beginners">Spring Boot</a>  
+
+👉 Join All Free Courses: https://www.scholarhat.com/free-course
 
 ## 🏆 Achievements & Badges
 
@@ -113,7 +116,7 @@ Accelerate your career with **hands-on, project-driven, job-oriented training pr
 
 - 🌐 Website: **https://www.scholarhat.com**  
 - 📩 DM me for **live training**, **certifications**, and **masterclasses**  
-- 💡 Follow for daily insights on **Azure AI**, **Gen AI**, **Architecture**, **Full-Stack**, and **Microservices**  
+- 💡 Follow for daily insights on **AI/ML**, **Gen AI**, **Cloud**, **Architecture**, **Full-Stack**, and **Microservices**  
 
 ---
 
